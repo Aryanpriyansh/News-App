@@ -1,12 +1,37 @@
-# React + Vite
+# 📰 News-Mag (React News App)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and modern **React.js News Web App** that fetches the latest headlines using the [NewsAPI](https://newsapi.org/).  
+Built with **React + Bootstrap** for a clean UI.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- ✅ Live news fetched from **NewsAPI**
+- ✅ Categories: General, Business, Entertainment, Health, Science, Sports, Technology
+- ✅ Responsive UI with Bootstrap
+- ✅ Dark theme (Black background with red navbar)
+- ✅ News cards with title, description, image & "Read More" link
+- ✅ Dynamic country set to **India**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+### Homepage
+<img width="1903" height="898" alt="image" src="https://github.com/user-attachments/assets/cfd17df3-0499-46ba-828e-019372d7d14c" />
+
+
+---
+
+## 🛠️ Tech Stack
+- **React.js (Vite)**
+- **Bootstrap 5**
+- **NewsAPI.org**
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Aryanpriyansh/news-mag.git
+cd news-mag
